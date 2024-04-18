@@ -1,6 +1,6 @@
 <h1>3D Printed Bike Tire Insert</h1>
 
- ### [Powerpoint Presentation](LINKHERE)
+ ### [Powerpoint Presentation](https://docs.google.com/presentation/d/1x0tk0zHd7hgqwDoMnrk9cwjazLYZUG1RKRXo1INYIHw/edit?usp=sharing)
  ### [Project Report](https://docs.google.com/document/d/1WL193E6f9bZAICc17r4Pe211YXnDHzqw/edit?usp=sharing&ouid=117059743814015081832&rtpof=true&sd=true)
 
 <h2>Description</h2>
